@@ -82,30 +82,6 @@
 
 ###
 
-<h3 align="left">Vamos nos conectar? Segue as redes abaixo ↓</h3>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yam-gabriel-santos-antunes-05579b312" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@yamtechcode" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="27" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/BNRCHU2PvZ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="27" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/yamsantos.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="27" alt="instagram logo"  />
-  </a>
-  <a href="yamsantosdev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="27" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
 <h2 align="left">🔥   My Stats :</h2>
 
 ###
